@@ -1,4 +1,10 @@
 site_name: Ythamos
 
+nav:
+  - Home: 'index.md'
+  - Wiki: 
+    - 'The Ythamos': 'wiki/index.md'
+    - 'Magic in the Ythamos': 'wiki/magic.md'
+
 theme:
   name: gitbook
