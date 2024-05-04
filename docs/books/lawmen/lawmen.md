@@ -65,4 +65,3 @@ Tam was really getting into it, giving his speach, and down there in the back ma
 Yari gave Daron a nudge. Daron interrupted mid-sentence, shouting out with his
 somewhat higher-pitched voice than his large stature would suggest
 
-"
