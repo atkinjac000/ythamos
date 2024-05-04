@@ -63,6 +63,4 @@ on edge, making it feel like no one in the room hardly knew each other.
 
 Tam was really getting into it, giving his speach, and down there in the back mayor
 Yari gave Daron a nudge. Daron interrupted mid-sentence, shouting out with his
-somewhat higher-pitched voice than his large stature would suggest
-
-"
+somewhat higher-pitched voice than his large stature would suggest.
